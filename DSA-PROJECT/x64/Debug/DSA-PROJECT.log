@@ -1,0 +1,6 @@
+﻿  VendingMachine.cpp
+C:\Users\Arham\source\repos\DSA-PROJECT\DSA-PROJECT\VendingMachine.cpp(896,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Arham\source\repos\DSA-PROJECT\DSA-PROJECT\VendingMachine.cpp(897,13): warning C4101: 'val': unreferenced local variable
+C:\Users\Arham\source\repos\DSA-PROJECT\DSA-PROJECT\VendingMachine.cpp(897,45): warning C4101: 'option': unreferenced local variable
+C:\Users\Arham\source\repos\DSA-PROJECT\DSA-PROJECT\VendingMachine.cpp(933,18): warning C4101: 'cond_lays': unreferenced local variable
+  DSA-PROJECT.vcxproj -> C:\Users\Arham\source\repos\DSA-PROJECT\x64\Debug\DSA-PROJECT.exe
